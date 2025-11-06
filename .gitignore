@@ -1,0 +1,6 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*__pycache__/
+*.pyc
+bulk_data/
+.DS_Store
